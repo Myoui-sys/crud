@@ -1,0 +1,17 @@
+{
+  "name": "crud-api-dacyrrose-sheila",
+  "version": "1.0.0",
+  "description": "CRUD em TypeScript usando a API JSONPlaceholder",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
